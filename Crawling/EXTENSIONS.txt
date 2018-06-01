@@ -1,0 +1,5 @@
+1.to add support for domains beyond amazon you could have a separate scrape 
+class that takes in a domain from user input or a seperate class for each domain.
+
+2.to add support for items beyond books you could create classes for the different items 
+and call the scrape function with different urls for the different items.

@@ -1,0 +1,17 @@
+{
+  "name": "crawling",
+  "version": "1.0.0",
+  "description": "This exercise is designed to test your ability to use object-oriented design principles, data structures and standard algorithms to create a web crawler. We will not only be looking at the data points you have collected from the web, but at the style of your code, its modularity, its extensibility, and ease at which the app can be built and tested. As a small team we believe these principles are a key element of our continued success.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
